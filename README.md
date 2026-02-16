@@ -93,8 +93,8 @@ jupyter notebook
 
 ## 📫 Connect With Me
 
-GitHub: (your profile link)  
-LinkedIn: (your LinkedIn link)
+GitHub: (https://github.com/Neha1016)  
+LinkedIn: (https://www.linkedin.com/in/neha-chouhan-n3399/)
 
 ---
 
